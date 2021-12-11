@@ -2,7 +2,7 @@
 
 Future Ready Talent https://futurereadytalent.in/ is a virtual internship platform with an opportunity to learn the in-demand Azure cloud & security skills aligned to industry needs. The program aims at preparing learners to work towards solving business challenges and creating innovative solutions using the power of Microsoft Azure & GitHub tools.
 
-# Project : Image classifiaction in Azure cognitive services 
+# Project : Computer vision in Azure cognitive services 
 
 I used Cognitive Services in one of my project which brings AI within reach of every developer and data scientist. With leading models, a variety of use cases can be unlocked. All it takes is an API call to embed the ability to see, hear, speak, search, understand and accelerate advanced decision-making into your apps. Enable developers and data scientists of all skill levels to easily add AI capabilities to their apps.
 
@@ -22,5 +22,23 @@ The post will mainly look into various Cognitive Services offered by Microsoft A
 
 
 <br/>
+
+
+# Face Detection
+
+Embed facial recognition into your apps for a seamless and highly secured user experience. No machine-learning expertise is required. Features include face detection that perceives facial features and attributes—such as a face mask, glasses, or face location—in an image, and identification of a person by a match to your private repository or via photo ID.
+
+
+
+
+<br/>
+
+
+![face-detection-1](https://user-images.githubusercontent.com/58947968/145673494-9279c581-0bff-45c1-a444-e5e9a942332e.png)
+
+
+
+<br/>
+
 
 
