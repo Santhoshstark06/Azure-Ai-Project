@@ -14,5 +14,5 @@ The post will mainly look into various Cognitive Services offered by Microsoft A
 
 
 <br/>
-![architecture-intelligent-apps-image-processing](https://user-images.githubusercontent.com/58947968/145673390-a2641bf1-3651-46c8-925f-812a412c6121.png)
+![architecture-intelligent-apps-image-processing]
 <br/>
