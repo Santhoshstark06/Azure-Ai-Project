@@ -58,6 +58,5 @@ Generate a description of an entire image in human-readable language, using comp
 
 
 
-<img width="781" alt="obj-det-scenario" src="https://user-images.githubusercontent.com/58947968/145673767-2c0b06a6-3e98-42ca-af65-d4a5394d7500.png">
 
 
