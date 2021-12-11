@@ -8,3 +8,11 @@ I used Cognitive Services in one of my project which brings AI within reach of e
 
 The space of cognitive services has grown up too fast with the advent of various pre-trained services provided by various public cloud providers such as Azure, AWS, or Google Cloud. This space has become more promising with its coverage to solve most of the common business use cases across industry domains.
 The post will mainly look into various Cognitive Services offered by Microsoft Azure, it is worthy to discuss the capabilities of each service and solutions which they can offer. This is going to be series of posts starting with an introduction to these services: 1) Cognitive Vision, 2) Cognitive Text Analytics, 3) Cognitive Language Processing, 4) Knowledge Processing and Search.
+
+
+
+
+
+<br/>
+![architecture-intelligent-apps-image-processing](https://user-images.githubusercontent.com/58947968/145673390-a2641bf1-3651-46c8-925f-812a412c6121.png)
+<br/>
