@@ -123,9 +123,12 @@ def show_recognized_faces(image_path, detected_faces, recognized_face_names):
             draw.rectangle(bounding_box, outline='magenta', width=5)
             if face.face_id in recognized_face_names:
                 plt.annotate(recognized_face_names[face.face_id],
+    
                              (r.left, r.top + r.height + 15), backgroundcolor='white')
         #a = fig.add_subplot(1,1,1)
-        fig.suptitle(caption)
+    
+    fig.suptitle(caption)
 
     plt.axis('off')
     plt.imshow(img)
+    
