@@ -107,11 +107,14 @@ def show_recognized_faces(image_path, detected_faces, recognized_face_names):
 
     # Open an image
     img = Image.open(image_path)
+    
 
     # Create a figure to display the results
     fig = plt.figure(figsize=(8, 6))
+    
 
     if detected_faces:
+        
         # If there are faces, how many?
         num_faces = len(recognized_face_names)
         caption = ' (' + str(num_faces) + ' faces recognized)'
