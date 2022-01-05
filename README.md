@@ -45,18 +45,9 @@ Embed facial recognition into your apps for a seamless and highly secured user e
 
 
 
-
-
-
 # Object Detection 
 
 Object detection is similar to tagging, but the API returns the bounding box coordinates for each tag applied. For example, if an image contains a dog, cat and person, the Detect operation will list those objects together with their coordinates in the image. You can use this functionality to process further relationships between the objects in an image. It also lets you know when there are multiple instances of the same tag in an image. 
 Generate a description of an entire image in human-readable language, using complete sentences. Computer Vision's algorithms generate various descriptions based on the objects identified in the image. The descriptions are each evaluated and a confidence score generated. A list is then returned ordered from highest confidence score to lowest.
 
-
-
-
-
-
-
-
+</br>
